@@ -1,0 +1,1 @@
+Element 5462 found at index 10 in the sorted array.
