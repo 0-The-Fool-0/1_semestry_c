@@ -1,3 +1,5 @@
+[Русская версия](README.ru.md)
+
 # First-Semester C++ Labs
 
 A small archive of introductory C++ laboratory assignments, kept in their original lab folders.
