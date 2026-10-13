@@ -1,0 +1,23 @@
+# Visual Studio and native build output
+.vs/
+**/x64/
+**/Win32/
+**/Debug/
+**/Release/
+**/*.obj
+**/*.o
+**/*.pdb
+**/*.ilk
+**/*.idb
+**/*.tlog/
+**/*.tlog
+**/*.exe
+**/*.dll
+**/*.lastbuildstate
+**/*.recipe
+**/*.vcxproj.user*
+**/*.suo
+
+# Local IDE/OS state
+.DS_Store
+Thumbs.db
